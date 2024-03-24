@@ -1,4 +1,4 @@
-# CodeAlpha_project_expense_tracker , here's a short description for your expense tracker:
+# CodeAlpha_project_expense_tracker , here's a short description about my  expense tracker:
  Welcome to my Expense tracker Project ! This project was created as a part of my learning journey with CodeAlpha, where I honed my skills in HTML, CSS, and JavaScript.
 
 About Expense Tracker my expense tracker is a user-friendly and efficient tool designed to help individuals manage their finances effortlessly. With intuitive features and a clean interface, users can easily input, categorize, and track their expenses in real-time. 
